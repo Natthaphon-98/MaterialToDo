@@ -1,1 +1,1 @@
-MinimalToDo-AutomatationTest
+MinimalToDo App AutomatationTest
